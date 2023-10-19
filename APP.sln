@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "APP\DAL.csproj", "{AD0F7077-7884-4CD5-9B96-F1EAC60FBF57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1\BlazorApp1.csproj", "{77864189-E11D-4A19-B6F8-6D990B452AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "ClassLibrary\ClassLibrary.csproj", "{3998D23D-C24E-4B35-99AB-69AD7456FCFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0F7077-7884-4CD5-9B96-F1EAC60FBF57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0F7077-7884-4CD5-9B96-F1EAC60FBF57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0F7077-7884-4CD5-9B96-F1EAC60FBF57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0F7077-7884-4CD5-9B96-F1EAC60FBF57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77864189-E11D-4A19-B6F8-6D990B452AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77864189-E11D-4A19-B6F8-6D990B452AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77864189-E11D-4A19-B6F8-6D990B452AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77864189-E11D-4A19-B6F8-6D990B452AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3998D23D-C24E-4B35-99AB-69AD7456FCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3998D23D-C24E-4B35-99AB-69AD7456FCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3998D23D-C24E-4B35-99AB-69AD7456FCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3998D23D-C24E-4B35-99AB-69AD7456FCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B23152A-F0C0-4298-9E25-590A3C5D7373}
+	EndGlobalSection
+EndGlobal
